@@ -46,7 +46,7 @@ https://youtu.be/9lmV2OHq1no
 ### HMI Alarm & Diagnostics
 <img width="930" height="671" alt="HMI Alarm" src="https://github.com/user-attachments/assets/a444aa98-1d57-4979-9113-7eee98a26434" />
 
-### PID Trend
+### Level Trend
 ![HMI Trend](https://github.com/user-attachments/assets/9a46f03a-9e90-4baf-b2ff-b6d1f5b74b2f)
 
 
