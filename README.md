@@ -35,7 +35,9 @@ https://youtu.be/9lmV2OHq1no
 
 ---
 
-## 📸 Screenshots
+## Screenshots
+
+### Factory IO Tank
 
 ### HMI Main Screen
 
@@ -46,7 +48,7 @@ https://youtu.be/9lmV2OHq1no
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Factory I/O
 - Siemens TIA Portal
 - PLC Programming (PID Controller)
@@ -55,8 +57,15 @@ https://youtu.be/9lmV2OHq1no
 
 ---
 
-## Skills Demonstrated
-- PID tuning and optimization
-- Process control strategy design
-- Handling of physical and sensor limits
-- Practical industrial automation simulation
+# Performance Notes
+
+- Fast response
+- Minimal overshoot
+- Stable steady-state behavior
+- Designed and tuned for industrially realistic operating conditions
+
+---
+
+## About This Project
+
+This project demonstrates practical PID tuning and tank level control behavior in an industrial automation environment.
