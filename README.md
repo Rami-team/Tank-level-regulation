@@ -11,7 +11,7 @@ The control strategy ensures accurate and stable level regulation within the def
 - Bidirectional control using **charge and discharge valves**
 - PID-based regulation for high precision
 - Deadband logic to reduce oscillations
-- Designed operating range: **0–100 level units**
+- Designed operating range: **0–300 level units**
 
 This approach prioritizes control accuracy and fast settling in the valid range.
 
